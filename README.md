@@ -91,9 +91,11 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <!--STARTS_HERE_QUOTE_CARD-->
-<p>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pikazo20&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=8080ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-</P>
+### Now Playing — Spotify 🎧
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=TU_UID_AQUI&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view.svg?uid=TU_UID_AQUI&redirect=true)
+
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
