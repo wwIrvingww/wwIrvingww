@@ -14,12 +14,13 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a **Web Developer** and **UI/UX Designer** with a strong foundation in **Computer Science** as a third-year engineering student. </p>
+<p align="left">Driven by design and code, I specialize in creating user-centered digital experiences. Currently a third-year Computer Science engineering student, I focus on blending functionality with intuitive UI/UX. Always learning, always building.</p>
 
-- ♠️ Constantly learning and improving, one project at a time.
-- ♠️ Passionate about web technologies, design principles, and building user-centered experiences.
-- ♠️ Avid reader, always looking for a good book to spark new ideas and perspectives.
-- ♠️ Visit my [Portfolio](https://www.fabricio.my/) for more details about me.
+
+ ♠️ Constantly learning and improving, one project at a time.
+ ♠️ Passionate about web technologies, design principles, and building user-centered experiences.
+ ♠️ Avid reader, always looking for a good book to spark new ideas and perspectives.
+ ♠️ Visit my [Portfolio](https://www.fabricio.my/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
