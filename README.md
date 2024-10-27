@@ -5,8 +5,9 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://i.pinimg.com/564x/78/b1/5a/78b15afc78f6f8e3c880316f1667039a.jpg">
+  <img align="right" width="40%" src="https://i.pinimg.com/564x/c8/a5/b3/c8a5b3b4925355ca46820c9ac5c4a0df.jpg">
 </div>
+
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ FABRICIO! 
@@ -24,7 +25,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=wwirvingww=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="wwIrvingww" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=wwIrvingww&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="wwIrvingww" style="padding-right:20px;" />
 </p>
 
 ---
