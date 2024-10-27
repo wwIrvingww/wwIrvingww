@@ -8,7 +8,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ FABRICIO! 
-*WEB DEVELOPER, UI/UX DESIGNER*
+**WEB DEVELOPER, UI/UX DESIGNER**
 <br /> 
 
 <!--Start Intro-->               
@@ -22,7 +22,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=wwIrvingww=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="wwIrvingww" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=wwirvingww=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="wwIrvingww" style="padding-right:20px;" />
 </p>
 
 ---
@@ -90,13 +90,12 @@
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/pikazo20)
-
-  </td>
+<!--STARTS_HERE_QUOTE_CARD-->
+<p>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pikazo20&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=8080ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)"/>
+</a>
+</P>
+<!--ENDS_HERE_QUOTE_CARD-->
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
