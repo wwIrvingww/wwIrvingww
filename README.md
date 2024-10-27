@@ -4,7 +4,7 @@
 </p>
 
 <div>
-  <img align="right" width="40%" height="70%" src="https://i.imgur.com/7yvUvA7.png">
+  <img align="right" width="40%" height="40%" src="https://i.imgur.com/7yvUvA7.png">
 </div>
 
 
