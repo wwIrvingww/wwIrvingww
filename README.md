@@ -90,11 +90,13 @@
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
-<!--STARTS_HERE_QUOTE_CARD-->
 ### Now Playing — Spotify 🎧
+<p>
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=TU_UID_AQUI&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=TU_UID_AQUI&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+</a>
+</p>
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=TU_UID_AQUI&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view.svg?uid=TU_UID_AQUI&redirect=true)
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
