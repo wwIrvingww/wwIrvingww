@@ -1,9 +1,11 @@
 <!--Banner-->
-![wwIrvingww Banner Image](https://i.pinimg.com/originals/57/3b/76/573b76b94e8c71cec32b98a17560914a.gif)
+<p align="center">
+    <img src="https://i.pinimg.com/originals/26/8c/33/268c33667bc60f86aafb2a412401eb79.gif" alt="wwIrvingww Banner Image"/>
+</p>
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://i.pinimg.com/564x/d5/04/c8/d504c8e78f3dbc77350e8bde1c3d7ccf.jpg">
+  <img align="right" width="40%" src="https://i.pinimg.com/564x/78/b1/5a/78b15afc78f6f8e3c880316f1667039a.jpg">
 </div>
 
 <!--Header Name-->
@@ -90,7 +92,7 @@
 <h2 align="center">🌟 Listen music with me! 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
-<p>
+<p align="center">
 <a href="https://github.com/kittinan/spotify-github-profile">
 <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pikazo20&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true"/>
 </a>
