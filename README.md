@@ -5,13 +5,13 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://i.pinimg.com/564x/c8/a5/b3/c8a5b3b4925355ca46820c9ac5c4a0df.jpg">
+  <img align="right" width="40%" src="https://i.imgur.com/7yvUvA7.png">
 </div>
 
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ FABRICIO! 
-**WEB DEVELOPER, UI/UX DESIGNER**
+# ɪ'ᴍ FABRICIO! 
+*Web Developer, UX/UI Designer*
 <br /> 
 
 <!--Start Intro-->               
