@@ -87,15 +87,15 @@
 ---
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">🌟 Listen music with me! 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
-### Now Playing — Spotify 🎧
 <p>
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=TU_UID_AQUI&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=TU_UID_AQUI&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+<a href="https://github.com/kittinan/spotify-github-profile">
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pikazo20&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true"/>
 </a>
 </p>
+
 
 
 <!--ENDS_HERE_QUOTE_CARD-->
