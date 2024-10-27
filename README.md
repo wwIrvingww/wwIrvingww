@@ -92,10 +92,8 @@
 <!--STARTS_HERE_QUOTE_CARD-->
 <!--STARTS_HERE_QUOTE_CARD-->
 <p>
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pikazo20&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=8080ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)"/>
-</a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pikazo20&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=8080ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </P>
-<!--ENDS_HERE_QUOTE_CARD-->
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
