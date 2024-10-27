@@ -1,7 +1,3 @@
-<!--Banner-->
-<p align="center">
-    <img src="https://i.pinimg.com/originals/26/8c/33/268c33667bc60f86aafb2a412401eb79.gif" alt="wwIrvingww Banner Image" width=100/>
-</p>
 
 <div>
   <img align="right" width="40%" height="40%" src="https://i.imgur.com/7yvUvA7.png">
@@ -20,7 +16,7 @@
 ♠️ Constantly learning and improving, one project at a time.  
 ♠️ Passionate about web technologies, design principles, and building user-centered experiences.  
 ♠️ Avid reader, always looking for a good book to spark new ideas and perspectives.  
-♠️ Visit my [Portfolio](https://www.fabricio.my/) for more details about me.
+♠️ Visit my ✨ **[Portfolio](https://www.fabricio.my/)** ✨ for more details about me.
 
 <!--End Intro-->
 
@@ -31,6 +27,12 @@
 
 ---
 <br />
+
+<!--Banner-->
+<p align="center">
+    <img src="https://i.pinimg.com/originals/26/8c/33/268c33667bc60f86aafb2a412401eb79.gif" alt="wwIrvingww Banner Image" width=100/>
+</p>
+
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
