@@ -3,9 +3,8 @@
     <img src="https://i.pinimg.com/originals/26/8c/33/268c33667bc60f86aafb2a412401eb79.gif" alt="wwIrvingww Banner Image"/>
 </p>
 
-<!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://i.imgur.com/7yvUvA7.png">
+  <img align="right" width="40%" height="300px" src="https://i.imgur.com/7yvUvA7.png">
 </div>
 
 
