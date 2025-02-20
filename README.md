@@ -10,7 +10,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Driven by design and code, I specialize in creating user-centered digital experiences. Currently a third-year Computer Science engineering student, I focus on blending functionality with intuitive UI/UX. Always learning, always building.</p>
+<p align="left">Driven by design and code, I specialize in creating user-centered digital experiences. Currently a fourth-year Computer Science engineering student, I focus on blending functionality with intuitive UI/UX. Always learning, always building.</p>
 
 
 ♠️ Constantly learning and improving, one project at a time.  
